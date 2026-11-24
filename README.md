@@ -23,6 +23,7 @@ none of these are actually original designs :)
 
 ## misc stuff
 
+- [https://indivicivet.github.io/katalogue](https://indivicivet.github.io/katalogue) -- catalogue of JKA Shotokan kata and others
 - [https://indivicivet.github.io/toki_pona](https://indivicivet.github.io/toki_pona) -- pictures of words in toki pona, a (minimalist) conlang
 - [https://indivicivet.github.io/a_fleeting_positive_thought](https://indivicivet.github.io/a_fleeting_positive_thought) -- positive thought "of the day", with that not to be taken literally :)
 
