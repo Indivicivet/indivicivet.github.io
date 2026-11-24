@@ -5,7 +5,7 @@ links to my other things in github, especially github pages
 ## tools
 
 - [https://indivicivet.github.io/climate_impact](https://indivicivet.github.io/climate_impact) -- climate impact calculator based on liestyle choices
-- [http://indivicivet.github.io/subway_metric](http://indivicivet.github.io/subway_metric) -- see travel time from highlighted point on a bunch of world subway systems, and 
+- [https://indivicivet.github.io/subway_metric](https://indivicivet.github.io/subway_metric) -- see travel time from highlighted point on a bunch of world subway systems, and 
 - [https://indivicivet.github.io/life_expectancy](https://indivicivet.github.io/life_expectancy) -- VERY unlikely to be medically useful or representative life expectancy calculator for fun only
 - [https://indivicivet.github.io/tone_sequence_trainer](https://indivicivet.github.io/tone_sequence_trainer) -- a trainer web app for Mandarin tones
 
