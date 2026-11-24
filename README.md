@@ -2,6 +2,13 @@
 
 links to my other things in github, especially github pages
 
+## tools
+
+- [https://indivicivet.github.io/climate_impact](https://indivicivet.github.io/climate_impact) -- climate impact calculator based on liestyle choices
+- [http://indivicivet.github.io/subway_metric](http://indivicivet.github.io/subway_metric) -- see travel time from highlighted point on a bunch of world subway systems, and 
+- [https://indivicivet.github.io/life_expectancy](https://indivicivet.github.io/life_expectancy) -- VERY unlikely to be medically useful or representative life expectancy calculator for fun only
+- [https://indivicivet.github.io/tone_sequence_trainer](https://indivicivet.github.io/tone_sequence_trainer) -- a trainer web app for Mandarin tones
+
 ## games
 
 none of these are actually original designs :)
@@ -13,13 +20,6 @@ none of these are actually original designs :)
 
 - [https://indivicivet.github.io/webvrgolf](https://indivicivet.github.io/webvrgolf) -- webVR golf simulator simulator
 - [https://indivicivet.github.io/webvr_etc](https://indivicivet.github.io/webvr_etc) -- dumping ground for absolute pure webVR slop
-
-## tools
-
-- [https://indivicivet.github.io/climate_impact](https://indivicivet.github.io/climate_impact) -- climate impact calculator based on liestyle choices
-- [http://indivicivet.github.io/subway_metric](http://indivicivet.github.io/subway_metric) -- see travel time from highlighted point on a bunch of world subway systems, and 
-- [https://indivicivet.github.io/life_expectancy](https://indivicivet.github.io/life_expectancy) -- VERY unlikely to be medically useful or representative life expectancy calculator for fun only
-- [https://indivicivet.github.io/tone_sequence_trainer](https://indivicivet.github.io/tone_sequence_trainer) -- a trainer web app for Mandarin tones
 
 ## misc stuff
 
